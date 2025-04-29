@@ -1,0 +1,32 @@
+<svg width="1128" height="191" viewBox="0 0 1128 191" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Smooth gradient (Brand Colors) -->
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF5F6D"/>
+      <stop offset="50%" stop-color="#FFC371"/>
+      <stop offset="100%" stop-color="#24C6DC"/>
+    </linearGradient>
+
+    <!-- Shadow for the logo -->
+    <filter id="logoShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Gradient Background (Brand Colors, faded softly) -->
+  <rect width="1128" height="191" fill="url(#brandGradient)" opacity="0.12"/>
+
+
+  <!-- Company Name and Tagline -->
+  <text x="400" y="100" font-family="'Segoe UI', Arial, sans-serif" font-size="44" font-weight="600" fill="#222">
+    EchoSense <tspan fill="url(#brandGradient)">AI</tspan>
+  </text>
+
+  <!-- Tagline -->
+  <text x="420" y="145" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="400" fill="#555">
+    Sense Smarter, Act Faster.
+  </text>
+
+  <!-- Bottom Gradient Bar -->
+  <rect x="0" y="181" width="1128" height="10" fill="url(#brandGradient)" opacity="0.8"/>
+</svg>
