@@ -1,6 +1,6 @@
-# EchoSense AI
+# Vasco Da Gama
 
-EchoSense AI is a voice-enabled restaurant finder application that helps users find restaurants based on their location, dietary preferences, and party size through natural voice interactions.
+Vasco Da Gama is a voice-enabled restaurant finder application that helps users find restaurants based on their location, dietary preferences, and party size through natural voice interactions. (on a side story note: Vasco is a friend of mine who love exploring new resturants and is a foodie).
 
 ## Features
 
